@@ -11,3 +11,6 @@ A logo precisa ser do tamanho 128x64 pixels e precisa ser tratada para ser conve
 ## Demo
 
 ![](demo/demo.jpeg)
+
+
+![](demo/demo.gif)
